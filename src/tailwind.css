@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* creas tus componentes àra no repeir el mismo codigo */
+.nav{
+    @apply bg-black text-center text-white w-full h-8
+}
